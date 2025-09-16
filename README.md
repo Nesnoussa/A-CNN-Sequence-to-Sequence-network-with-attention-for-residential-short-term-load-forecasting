@@ -1,3 +1,5 @@
+# A-CNN-Sequence-to-Sequence-network-with-attention-for-residential-short-term-load-forecasting
+
 ### Executive Summary
 
 Residential electricity consumption accounts for ~40% of global energy use and is highly volatile, nonlinear, and influenced by irregular household behavior. Traditional forecasting models fail to capture these complexities, especially peak consumption events, leading to inaccurate demand predictions.
